@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Deafult4[cards]: Welcome to EazyBank cards related local APIs "
+  message: "Deafult[CCards]: Welcome to EazyBank cards related local APIs "
   contactDetails:
     name: "Dragos Lech - Developer"
     email: "dragos@eazybank.com"
